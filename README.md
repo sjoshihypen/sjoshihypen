@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently pursuing bachelors of computer application from ggsipu,dwar
+- 🔭 I’m currently pursuing bachelors of computer application from ggsipu,dwarka,New Delhi
 - 🌱 I’m currently learning java + python 
 - 📫 How to reach me: 
      Gmail    : sushantjoshi800@gmail.com
