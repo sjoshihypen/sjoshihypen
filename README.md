@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**sjoshihypen/sjoshihypen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -10,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
      Gmail    : sushantjoshi800@gmail.com
      Linkedin : https://www.linkedin.com/in/sushant-joshi-b95602168/
--->
