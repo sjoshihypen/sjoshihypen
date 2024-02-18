@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sushant Joshi</h1>
 <h3 align="center">A Enthusiastic Software Development Engineer</h3>
 
-<img align ="right" alt="coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&rlz=1C1CHBF_enIN1068IN1068&oq=animated+codi&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDINCAkQABiGAxiABBiKBagCALACAA&sourceid=chrome&ie=UTF-8#vhid=uYYa30tHbsaH2M&vssid=l">
+<img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjoshihypen&label=Profile%20views&color=0e75b6&style=flat" alt="sjoshihypen" /> </p>
 
 - 🌱 I’m currently learning **Python, Django**
