@@ -5,9 +5,12 @@
 <img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjoshihypen&label=Profile%20views&color=0e75b6&style=flat" alt="sjoshihypen" /> </p>
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning Java, DSA with Advanced concepts.
 
-- 📫 How to reach me **sushantjoshi800@gmail.com**
+- 📫 How to reach me :
+- **sushantjoshi800@gmail.com**
+- **https://www.linkedin.com/in/sushant-joshi-b95602168/**
+- **https://auth.geeksforgeeks.org/user/sushantjoshii800**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
